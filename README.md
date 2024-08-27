@@ -2,5 +2,4 @@
 
 
 
-![Guaxinim Girando](img/giphy.webp)
-
+![](giphy.webp)
